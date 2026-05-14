@@ -1,1 +1,5 @@
-
+pycryptodome
+requests
+psutil
+cryptography
+python-nmap
